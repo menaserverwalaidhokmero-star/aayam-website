@@ -1,0 +1,6 @@
+{
+  "name": "NOVA — Creative Intelligence & Horizon Platform",
+  "description": "A premium discovery and creative studio platform uniting cutting-edge design horizons, generative tools, personalized workspaces, and collaborative ideas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
